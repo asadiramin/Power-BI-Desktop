@@ -4,9 +4,8 @@
 
 - Importing data in to Power BI Desktop
 - Using Power Query Editor to transform the data: Removing unneccesary columns, cheking for the correct data types, calculating a Date Table
-- Data Model
-- Data Visualization 
-- Building a custom Tooltip including Card and map
+- Data Modelling
+- Reporting the data / Data Visualization & Building a customized Tooltip using Card- and Map-Visual
 
 
 
